@@ -1,0 +1,16 @@
+# Compilados
+*.class
+/target
+/build
+/out
+
+# IDEs
+.idea
+*.iml
+.classpath
+.project
+.settings
+.vscode
+
+# SO
+.DS_Store
